@@ -1,0 +1,3 @@
+[submodule "gradleProject1"]
+	path = gradleProject1
+	url = git@github.com:javiosyc/gradleProject1.git
